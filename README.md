@@ -13,7 +13,7 @@ If you Update the Docker Image comment the lines that starts with "access_log...
 
 ## Usage:
 
-Replace the Docker Image with: 15ky3/nginxproxymanager
+Replace the Docker Image with: 15ky3/nginxproxymanager:latest
 
 ## GEOIP is not supported yet!
 
