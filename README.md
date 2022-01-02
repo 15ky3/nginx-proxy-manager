@@ -1,7 +1,7 @@
 
 ## Changes made by me:
 
-Updatet the Logging Config to use with this Grafana Dashboard: https://grafana.com/grafana/dashboards/12559
+UpdateD the Logging Config to use with this Grafana Dashboard: https://grafana.com/grafana/dashboards/12559
 
 If you Update the Docker Image comment the lines that starts with "access_log..." in every .conf file in the folders:
 
@@ -15,7 +15,7 @@ If you Update the Docker Image comment the lines that starts with "access_log...
 
 Replace the Docker Image with: 15ky3/nginxproxymanager
 
-## GEOIP is not supported yet!!
+## GEOIP is not supported yet!
 
 ## Project Goal
 
