@@ -11,6 +11,9 @@ If you Update the Docker Image comment the lines that starts with "access_log...
 - redirection_host
 - stream
 
+## Usage:
+
+Replace the Docker Image with: 15ky3/nginxproxymanager
 
 ## Project Goal
 
