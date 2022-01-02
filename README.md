@@ -15,6 +15,8 @@ If you Update the Docker Image comment the lines that starts with "access_log...
 
 Replace the Docker Image with: 15ky3/nginxproxymanager:latest
 
+I will Update the Docker Container once a month.
+
 ## GEOIP is not supported yet!
 
 ## Project Goal
