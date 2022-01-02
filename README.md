@@ -15,6 +15,8 @@ If you Update the Docker Image comment the lines that starts with "access_log...
 
 Replace the Docker Image with: 15ky3/nginxproxymanager
 
+## GEOIP is not supported yet!!
+
 ## Project Goal
 
 I created this project to fill a personal need to provide users with a easy way to accomplish reverse
