@@ -1,7 +1,7 @@
 
 ## Changes made by me:
 
-UpdateD the Logging Config to use with this Grafana Dashboard: https://grafana.com/grafana/dashboards/12559
+Updated the Logging Config to use with this Grafana Dashboard: https://grafana.com/grafana/dashboards/12559
 
 If you Update the Docker Image comment the lines that starts with "access_log..." in every .conf file in the folders:
 
